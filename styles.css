@@ -1,0 +1,22 @@
+h1{ color: black;
+}
+h2{ color:black;}
+li {color: black
+;}
+h2 { text-align:center;}
+h3{color: black;}
+h3{ border: 8px black outset;}
+body{ background-image: url("https://media1.giphy.com/media/ZO5NpsMECCZk4/200.gif");}
+#coffee{color:black;
+}
+h1{ text-shadow: 3px 3px 3px red; 
+}
+h3{ text-shadow: 3px 3px 3px red;
+}
+#coffee{ text-shadow: 3px 3px 3px red;
+}
+li{ text-shadow: 3px 3px 3px red;
+}
+h1 { text-shadow: 3px 3px 3px red;
+}
+
